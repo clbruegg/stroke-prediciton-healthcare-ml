@@ -8,7 +8,7 @@
 **Dataset:** Kaggle Stroke Prediction Dataset (5,110 records)
 
 [**Full Project Report (PDF)**](./reports/Brueggeman_Stroke_Prediction.pdf)  
-[**Presentation Slides (PPTX)**](./presentation/Predicting_Strokes_Using_Healthcare_Data_Brueggeman.pptx)  
+[**Presentation Slides (PPTX)**](./presentation/)  
 [**Reproducible Notebooks**](./notebooks/)
 
 ---
@@ -43,7 +43,7 @@
 ---
 
 ## How to Run
-1. Open `notebooks/stroke_prediction.ipynb`  
+1. Open `notebooks/`  
 2. Run cells sequentially (data is included)
 
 ---
